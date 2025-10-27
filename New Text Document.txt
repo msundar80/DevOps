@@ -7,3 +7,5 @@ WhatsApp Application
 5. Attachments_Files_Audio_Video files
 6. Hiding the Last Seen
 7. Adding Audio Call Feature
+8. Adding Video Call Feature
+9. Adding Payment options
