@@ -5,3 +5,5 @@ WhatsApp Application
 3. Last Screen Code
 4. Attachments	
 5. Attachments_Files_Audio_Video files
+6. Hiding the Last Seen
+7. Adding Audio Call Feature
